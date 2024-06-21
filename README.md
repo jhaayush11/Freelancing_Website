@@ -1,7 +1,5 @@
 # Freelancing_Website
 
-# GigLink
-
 The freelance website is a platform designed to connect clients with freelance professionals across various industries.It build using Next.js,TailwindCss,Express.js,Prisma,PostgreSQL,JWT token ,also It leverages the power of Next.js,React framework for server-side rendering and dynamic site generation, to provide a fast and efficient user experience
 
 
